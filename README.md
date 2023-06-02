@@ -1,13 +1,9 @@
-### Chrome Tabs in Chrome
+### Chrome Tabs (now with new-tab button ect)
 
-Exactly what you think this is. Go wild.
+Paragramex here, I just added in some features from pull requests that Adam hasnt merged yet because they look cool and stuff, enjoy!
 
+---
 Drag-and-drop support provided by [Draggabilly](https://github.com/desandro/draggabilly) by @desandro.
 
-### [Live demo](http://adamschwartz.co/chrome-tabs/)
+### [Live demo]([http://adamschwartz.co/chrome-tabs/](https://paragramex.github.io/chrome-tabs/))
 
-<img width=714 src=http://adamschwartz.co/chrome-tabs/chrome-tabs.gif>
-
-<br>
-
-[Older versions](older-versions.md)
