@@ -231,6 +231,7 @@
 
     setTabCloseEventListener(tabEl) {
       tabEl.querySelector('.chrome-tab-close').addEventListener('click', _ => this.removeTab(tabEl))
+      //close tab on mouse middle click
       tabEl.addEventListener('auxclick', _ => this.removeTab(tabEl))
     }
 
